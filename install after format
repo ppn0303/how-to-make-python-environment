@@ -1,0 +1,6 @@
+재설치를 하며 누락한거...
+1. tensorflow는 그냥 tensorflow와 tensorflow-gpu 2개로 나뉜다.
+2. tensorflow 설명서를 꼭 보자... 
+현재(22.2.20) 설치 기준 : 텐서플로우 : 2.5(2.6은 오류 발생), CUDA toolkit = 11.2버전, cuDNN = 8.1버전, 파이토치 CUDA 10.2호환버전
+텐서플로 조합 확인 : https://www.tensorflow.org/install/source_windows?hl=ko
+파이토치 사이트 : https://pytorch.org/get-started/locally/
